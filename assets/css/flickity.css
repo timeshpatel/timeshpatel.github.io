@@ -6,12 +6,18 @@ https://flickity.metafizzy.co
   position: relative;
 }
 
+.flickity-enabled
+
 .flickity-enabled:focus { outline: none; }
 
 .flickity-viewport {
   overflow: hidden;
   position: relative;
   height: 100%;
+}
+
+.main-gallery{
+  width: 400px;
 }
 
 .flickity-slider {
